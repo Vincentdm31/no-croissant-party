@@ -1,0 +1,12 @@
+[package]
+name = "no-croissant-party"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+device_query = "3.0.1"
+screenlocker = "0.3.3"
+tray-item = "0.10.0"
+
+[build-dependencies]
+embed-resource = "2.3"
