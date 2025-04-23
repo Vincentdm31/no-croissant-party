@@ -18,3 +18,9 @@ cargo build --release
 
 # Executable located at no-croissant-party/target/release/no-croissant-party.exe
 ```
+
+# Tool
+
+Runs in the background
+
+![alt text](image.png)
