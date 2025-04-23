@@ -1,6 +1,6 @@
 # No croissant party 🥐
 
-A simple tool written in Rust which locks your screen if you're inactive for more than 60secs
+A simple Rust tool that locks your screen after 60 seconds of inactivity
 
 # Installation
 
